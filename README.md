@@ -9,7 +9,7 @@
 [BeeCrowd]: <https://academic.beecrowd.com/en> "BeeCrowd"
 [PerfilAluno]: <https://forms.office.com/r/Ktp4GbgHWs> "Perfil Aluno"
 
-# Disciplina de Introdução à Programação
+# Disciplina de Introdução à Programação - BCC
 
 Olá, seja bem vindo .. 😁  
 
@@ -67,6 +67,7 @@ Algumas dúvidas que devem ser resolvidas com os conteúdos das unidades abaixo 
 ## [Trabalho Final]
 
 E, se conseguirmos chegar até aqui (ainda vivos)... então boas férias 😉
+
 
 
 
