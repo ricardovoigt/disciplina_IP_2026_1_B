@@ -44,8 +44,8 @@ Vocês irão notar que quando preciso fazer algum rabisco eu uso o Draw.io. Para
 [Prova de Suficiência]  
 [Ambiente de Desenvolvimento Prático]  
 [BeeCrowd]  
-[PerfilAluno]
-[Inscrição Prova Suficiência]
+[PerfilAluno]  
+[Inscrição Prova Suficiência]  
 
 **Prazos**: geralmente o AVA3 é usado pelos professores para definirem prazos para atividades. Uma vez definido um prazo a atividade não pode ser entregue no AVA3, a não ser que o professor prorrogue o prazo. Não deixem para postar a atividade nos últimos minutos. Se for uma atividade que pode ser postada em partes, postem a medida que forem desenvolvendo. Só observem qual é o limite de enviou que foi definido no post do AVA3 para aquela atividade.
 
@@ -69,6 +69,7 @@ Algumas dúvidas que devem ser resolvidas com os conteúdos das unidades abaixo 
 ## [Trabalho Final]
 
 E, se conseguirmos chegar até aqui (ainda vivos)... então boas férias 😉
+
 
 
 
