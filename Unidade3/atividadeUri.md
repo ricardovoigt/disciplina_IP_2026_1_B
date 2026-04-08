@@ -5,13 +5,13 @@ Olá, agora a atividade desta unidade será utilizar o URI para praticar a inter
 Bom, agora vocês devem acessar o link  
 
 <!-- [ ] INICIO atualizar - Link da disciplina -->
-[https://bcwd.me/d-15007](<https://bcwd.me/d-15007> "https://bcwd.me/d-15007")  ou acesse beecrowd.com
+[https://bcwd.me/d-15007](<https://bcwd.me/d-15622> "https://bcwd.me/d-15622")  ou acesse beecrowd.com
 
 <!-- [ ] INICIO atualizar - Nome da Disciplina -->
-para criar uma conta e se inscreverem na disciplina criada dentro do URI. A disciplina tem o nome: **IP_2025_2_A**.  
+para criar uma conta e se inscreverem na disciplina criada dentro do URI. A disciplina tem o nome: **IP_C_2026_1_BCC**.  
 
 <!-- [ ] INICIO atualizar - Token da Disciplina -->
-Assim que acessar a disciplina informe a seguinte chave de acesso (token): 3hbnQJv  
+Assim que acessar a disciplina informe a seguinte chave de acesso (token): 0sCaFna  
 
 Mas ATENÇÃO, usem o e-mail da FURB (seuLogin @ furb . br) para criar a conta de vocês, e aonde for pedido para preencher o seu nome coloque o seu nome correto e completo.  
 
@@ -28,5 +28,3 @@ Para fazer esta atividade siga esta sequência de passos:
 9) a linha do número do problema deve esta com resposta "Accepted" (cor verde) .. com a data/hora atual.  
 
 Bom, agora é só repetir para os outros 3.456.346.423 problemas definidos nesta atividade ... brincadeirinha, são só 14 problemas.  
-
-
