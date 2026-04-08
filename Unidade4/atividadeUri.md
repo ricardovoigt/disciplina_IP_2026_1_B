@@ -2,12 +2,12 @@
 
 Olá, voltamos com mais uma atividade no URI para praticar a interpretação de enunciados e descrição dos algoritmos usando a linguagem Java na IDE VSCode para serem validadas no URI.  
 
-Bom, agora depois de vocês entrarem na disciplina com o nome **IP_2025_2_A** no URI, no caso  
+Bom, agora depois de vocês entrarem na disciplina com o nome **IP_C_2026_1_BCC** no URI, no caso  
 
-Assim que acessar a disciplina informe a seguinte chave de acesso (token): 3hbnQJv
+Assim que acessar a disciplina informe a seguinte chave de acesso (token): 0sCaFna
 
 <!-- [ ] INICIO atualizar - Link da Disciplina -->
-[https://bcwd.me/d-15007](<https://bcwd.me/d-15007> "https://bcwd.me/d-15007")  ou acesse beecrowd.com
+[https://bcwd.me/d-15622](<https://bcwd.me/d-15622> "https://bcwd.me/d-15622")  ou acesse beecrowd.com
 
 Resolvam os exercícios **Unidade 4 (Controle de Fluxo)**.
 
